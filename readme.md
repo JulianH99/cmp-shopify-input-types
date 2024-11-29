@@ -53,4 +53,6 @@ require'cmp'.setup({
 ```
 By default, the source will only be available for `.liquid` files
 
+![example](./screenshots/screen.png)
+
 
