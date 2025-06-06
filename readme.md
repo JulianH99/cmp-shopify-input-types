@@ -1,5 +1,7 @@
 # Shopify section input types for cmp
 
+**If you're looking for a blink version of this plugin you can find it [here](https://github.com/JulianH99/blink-shopify-input-types)**
+
 I created this simple, almost too hacky cmp source to be able to work with the
 schema definition of a shopify section without having to visit their api site
 every time. This cmp source simply completes the input type in any part of the
